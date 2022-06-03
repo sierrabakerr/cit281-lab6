@@ -22,7 +22,6 @@ Part 7: Add ISBN and a delete book method
 
 ## Lab Deliverables:
 
-### 1. lab-06.js
-[lab-06.js](lab-06.js)
+### 1. [lab-06.js](lab-06.js)
 
 
