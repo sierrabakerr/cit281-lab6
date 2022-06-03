@@ -1,3 +1,7 @@
+/*
+    CIT 281 Lab 6
+    Name: Sierra Baker
+*/
 class Book {
   constructor(title, author, pubDate, isbn) {
     this.title = title;
